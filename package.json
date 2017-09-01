@@ -1,0 +1,23 @@
+{
+  "name": "gulp-css-asset",
+  "version": "0.1.0",
+  "description": "一个gulp插件，用于处理css文件及其引入的各种资源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 6.10"
+  },
+  "author": "774525329@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "bl": "^1.2.1",
+    "colors": "^1.1.2",
+    "gulp-util": "^3.0.8",
+    "mime": "^1.3.6",
+    "spritesmith": "^3.1.1",
+    "through2": "^2.0.3",
+    "vinyl": "^2.0.2"
+  }
+}
